@@ -6,9 +6,6 @@ import time
 
 class TestAbs(unittest.TestCase):
 
-    @classmethod
-    def pepega
-
     def test_abs1(self):
         browser = webdriver.Chrome()
         browser.get('http://suninjuly.github.io/registration1.html')

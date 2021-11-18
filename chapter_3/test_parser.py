@@ -1,3 +1,7 @@
+# Запуск разны браюзеров из командной строки
+# pytest -s -v --browser_name=chrome test_parser.py
+# pytest -s -v --browser_name=firefox test_parser.py
+
 link = "http://selenium1py.pythonanywhere.com/"
 
 
